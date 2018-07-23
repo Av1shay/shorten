@@ -125,7 +125,7 @@ class Shorten{
 	}
 
 	/**
-	 * The function that doing to heavy lifting, upload each size of uploaded image.
+	 * Compress each uploaded image (including image sizes).
 	 *
      * @see https://github.com/short-pixel-optimizer/shortpixel-php
      *
