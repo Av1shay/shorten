@@ -1,0 +1,10 @@
+{
+  "name": "Shorten",
+  "description": "A simple image compression plugin",
+  "require": {
+    "shortpixel/shortpixel-php": "*",
+    "katzgrau/klogger": "dev-master"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
